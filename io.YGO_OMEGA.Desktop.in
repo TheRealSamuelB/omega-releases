@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=YGO Omega Launcher 
+Path={INSTALL_PATH}
+Exec={INSTALL_PATH}/./YGO\ Omega.x86_64
+Icon={INSTALL_PATH}/YGO Omega_Data/Resources/UnityPlayer.png
+Terminal=false
+Categories=Game;CardGame;3DSimulator
